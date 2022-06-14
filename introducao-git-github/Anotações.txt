@@ -1,0 +1,5 @@
+git clone + [https, ssh, etc...]
+
+git status
+
+git commit
